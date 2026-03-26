@@ -122,8 +122,8 @@ Trader-Sentiment-Analysis/
     ├── fear_greed_index.csv
 ```
 ## NOte The Dataset is not loaded because of size issue
-historical_data.csv link - https://drive.google.com/file/d/1Iy9PEXdou0zk2Z3iVTfQAu5Pfv5bdy6k/view?usp=drive_link
-fear_greed_index.csv - https://drive.google.com/file/d/1Z67JHnu6qVAxF3u-KiSKUJY6nR1yxORl/view?usp=drive_link
+* historical_data.csv link - https://drive.google.com/file/d/1Iy9PEXdou0zk2Z3iVTfQAu5Pfv5bdy6k/view?usp=drive_link
+* fear_greed_index.csv - https://drive.google.com/file/d/1Z67JHnu6qVAxF3u-KiSKUJY6nR1yxORl/view?usp=drive_link
 
 ---
 
